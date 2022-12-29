@@ -1,0 +1,1 @@
+3) Write an abstract class with college id and college name as instance variable and intialize it using constructor
